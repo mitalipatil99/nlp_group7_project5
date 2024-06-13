@@ -5,4 +5,4 @@
 - **Bloom**
 - **Mistral**
 
-⚠️ **This report contains inappropriate, hateful, and toxic words and statements.**
+⚠️ **The repository notebooks contain inappropriate, hateful, and toxic words and statements.**
